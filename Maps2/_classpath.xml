@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="**/*.asl" kind="src" path="src/agt"/>
+	<classpathentry excluding="*.ptl" kind="src" path="src/int"/>
+	<classpathentry excluding="*.xml" kind="src" path="src/org"/>
+	<classpathentry kind="src" path="src/env"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JaCaMo"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/ant.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/c4jason.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/cartago.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/intmas.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/jacamo.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/jade.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/jason.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/javacc.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/junit.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/jacamo/lib/moise.jar"/>
+	<classpathentry kind="lib" path="M:/Downloads/weka-3-8-4/weka.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
